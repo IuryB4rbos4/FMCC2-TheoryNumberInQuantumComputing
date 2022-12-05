@@ -1,3 +1,6 @@
+# DESENVOLVIDO POR IURY BARBOSA E PEDRO VINICIUS
+
+
 import numpy as np
 from fractions import Fraction
 
